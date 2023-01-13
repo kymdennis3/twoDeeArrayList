@@ -24,6 +24,6 @@ public class Main {
         groceryList.add(drinksList);
         groceryList.add(bakeryList);
 
-        System.out.println(groceryList.get(0));
+        System.out.println(groceryList.get(0).get(1));
     }
 }
